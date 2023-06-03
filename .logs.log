@@ -150,3 +150,12 @@
 2023-06-02 22:20:30 INFO  TC_LoginDDT_002:24 - username is provided
 2023-06-02 22:20:30 INFO  TC_LoginDDT_002:26 - password is provided
 2023-06-02 22:20:34 INFO  TC_LoginDDT_002:32 - provideding customer details
+2023-06-03 01:02:24 INFO  TC_LoginDDT_002:24 - username is provided
+2023-06-03 01:02:24 INFO  TC_LoginDDT_002:26 - password is provided
+2023-06-03 01:02:30 INFO  TC_LoginDDT_002:32 - provideding customer details
+2023-06-03 01:03:04 INFO  TC_LoginDDT_002:21 - URL is Opened
+2023-06-03 01:03:04 INFO  TC_LoginDDT_002:25 - Window is Maximised
+2023-06-03 01:03:10 INFO  TC_LoginDDT_002:35 - Username Entered 
+2023-06-03 01:03:10 INFO  TC_LoginDDT_002:39 - Password Entered 
+2023-06-03 01:03:12 INFO  TC_LoginDDT_002:43 - Submited and Entered to mail page
+2023-06-03 01:03:13 INFO  TC_LoginDDT_002:57 - login test failed
