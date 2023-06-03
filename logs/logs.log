@@ -1,0 +1,5 @@
+[DEBUG] 2023-05-29 10:42:29.273 [main] LOG4j2demo - This is debug mesasage domlogger
+[DEBUG] 2023-05-29 10:42:29.276 [main] LOG4j2demo - This is Info mesasage domlogger
+[DEBUG] 2023-05-29 10:42:29.276 [main] LOG4j2demo - This is warn mesasage domlogger
+[DEBUG] 2023-05-29 10:42:29.276 [main] LOG4j2demo - This is error mesasage domlogger
+[DEBUG] 2023-05-29 10:42:29.276 [main] LOG4j2demo - This is fatal mesasage domlogger

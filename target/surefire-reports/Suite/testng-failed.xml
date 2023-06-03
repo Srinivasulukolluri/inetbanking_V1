@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="com.inetbanking.utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="Banking APP Test(failed)" verbose="0">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.inetbanking.testcases.TC_AddCustomerTest_003">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="addNewCustomer"/>
+        </methods>
+      </class> <!-- com.inetbanking.testcases.TC_AddCustomerTest_003 -->
+      <class name="com.inetbanking.testcases.Tc_LoginTest_001">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="LoginTest"/>
+        </methods>
+      </class> <!-- com.inetbanking.testcases.Tc_LoginTest_001 -->
+    </classes>
+  </test> <!-- Banking APP Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
