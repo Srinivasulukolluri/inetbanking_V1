@@ -42,7 +42,7 @@ public class TC_AddCustomerTest_003 extends BaseClass{
 				
 		String email=randomstring()+"@gmail.com";
 		addcust.cusemailid(email);
-		addcust.custpassword("abcdef");
+		addcust.custpassword("qusadEn");
 		addcust.custsubmit();
 		
 		Thread.sleep(3000);
